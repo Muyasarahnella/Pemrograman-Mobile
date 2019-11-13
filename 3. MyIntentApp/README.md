@@ -1,0 +1,7 @@
+![Hasil Move Explicit 3](https://user-images.githubusercontent.com/54885157/68747063-63263f00-062c-11ea-8754-e3214f303d3f.png)
+![Hasil Move to web browser](https://user-images.githubusercontent.com/54885157/68747064-63bed580-062c-11ea-9dd0-74da1e6cf03d.png)
+![Menu Awal](https://user-images.githubusercontent.com/54885157/68747065-63bed580-062c-11ea-9f3c-8ebc75e3381f.png)
+![Halaman Move Explicit 2](https://user-images.githubusercontent.com/54885157/68747066-63bed580-062c-11ea-9076-514809f990c8.png)
+![Hasil Move Activity with data implisit](https://user-images.githubusercontent.com/54885157/68747067-64576c00-062c-11ea-9c70-730bf0343058.png)
+![Hasil Move Activity With Data](https://user-images.githubusercontent.com/54885157/68747069-64576c00-062c-11ea-99f9-31d8bb9161c8.png)
+![Hasil Move Activity](https://user-images.githubusercontent.com/54885157/68747070-64f00280-062c-11ea-965b-d724f7209bff.png)
