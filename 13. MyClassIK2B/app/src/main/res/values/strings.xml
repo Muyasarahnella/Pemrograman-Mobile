@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyClass-IK-2B</string>
+    <string name="no">Nomor</string>
+    <string name="nama">Nama</string>
+    <string name="ttl">Tanggal Lahir</string>
+    <string name="sex">Jenis Kelamin</string>
+    <string name="address">Alamat</string>
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="informasi">Aplikasi ini berisi daftar nama mahasiswa kelas IK-2B.
+    Digunakan untuk pendataan mahasiswa Informatika Kelas IK-2B. Fitur yang dimiliki dapat menambah, update, dan hapus data
+    mahasiswa kelas IK-2B</string>
+    <string name="owner">Created By : Muyasarah Nella</string>
+    <string name="version">Version : 1.1</string>
+    <string name="email">Email : nellafawn@gmail.com</string>
+</resources>

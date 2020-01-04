@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459934652178",
+    "firebase_url": "https://daftar-belanja-harian-8f0b4.firebaseio.com",
+    "project_id": "daftar-belanja-harian-8f0b4",
+    "storage_bucket": "daftar-belanja-harian-8f0b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459934652178:android:72453d4260720675edc5cb",
+        "android_client_info": {
+          "package_name": "nella.nat.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459934652178-jev7k86me77l27g9ic4us7ekij4t5m26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nella.nat.daftarbelanja",
+            "certificate_hash": "9b1784eb15912e27c0122d2cb8c81ccbdfec190b"
+          }
+        },
+        {
+          "client_id": "459934652178-uj35o3cq92e0dse0bkm1f6l31qphr50h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKdveXGz2wVMZYaXuYfex6aKE-it-xsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459934652178-uj35o3cq92e0dse0bkm1f6l31qphr50h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
